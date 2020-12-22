@@ -1,4 +1,4 @@
-package com.vkstech.DateUtils;
+package com.github.vipul_kumar_singh;
 
 import java.time.LocalDate;
 import java.time.ZoneId;
